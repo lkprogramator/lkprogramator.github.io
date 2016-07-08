@@ -3,6 +3,12 @@
  
    
     <url>
+      <loc>/portfolio/bigprojects/Prism-solution.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+  
+    <url>
       <loc>/portfolio/web/Atelier-nespadne.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
@@ -16,6 +22,18 @@
   
     <url>
       <loc>/blog/Test-article-mark.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+  
+    <url>
+      <loc>/portfolio/web/Poji.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+  
+    <url>
+      <loc>/portfolio/bigprojects/HR-solution.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
@@ -71,39 +89,7 @@
   
    
     <url>
-      <loc>/about/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.3</priority>
-    </url>  
-     
-  
-   
-    <url>
-      <loc>/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.3</priority>
-    </url>  
-     
-  
-   
-    <url>
-      <loc>/blog/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.3</priority>
-    </url>  
-     
-  
-   
-    <url>
-      <loc>/services/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.3</priority>
-    </url>  
-     
-  
-   
-    <url>
-      <loc>/contact/</loc>
+      <loc>/404.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>  
@@ -119,7 +105,7 @@
   
    
     <url>
-      <loc>/contact/old_</loc>
+      <loc>/contact/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>  
@@ -127,7 +113,7 @@
   
    
     <url>
-      <loc>/portfolio/old_</loc>
+      <loc>/blog/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>  
@@ -135,7 +121,7 @@
   
    
     <url>
-      <loc>/blog/old_</loc>
+      <loc>/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>  
@@ -143,7 +129,7 @@
   
    
     <url>
-      <loc>/old_</loc>
+      <loc>/about/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>  
@@ -151,15 +137,7 @@
   
    
     <url>
-      <loc>/about/old_</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.3</priority>
-    </url>  
-     
-  
-   
-    <url>
-      <loc>/services/old_</loc>
+      <loc>/services/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>  
