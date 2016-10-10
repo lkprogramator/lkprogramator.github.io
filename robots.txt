@@ -17,4 +17,4 @@ Disallow: /js/
 Disallow: /css/
 Disallow: /fonts/
 Crawl-delay: 10
-Sitemap: http://githubdap.github.io/sitemap.xml
+Sitemap: http://lkprogramator.github.io/sitemap.xml

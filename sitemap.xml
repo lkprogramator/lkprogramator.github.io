@@ -3,7 +3,7 @@
  
    
     <url>
-      <loc>/portfolio/bigprojects/Prism-solution.html</loc>
+      <loc>/portfolio/bigprojects/Prism%20solution.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
@@ -33,7 +33,7 @@
     </url>
   
     <url>
-      <loc>/portfolio/bigprojects/HR-solution.html</loc>
+      <loc>/portfolio/bigprojects/HR%20solution.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
@@ -97,14 +97,6 @@
   
    
     <url>
-      <loc>/portfolio/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.3</priority>
-    </url>  
-     
-  
-   
-    <url>
       <loc>/contact/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
@@ -121,14 +113,6 @@
   
    
     <url>
-      <loc>/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.3</priority>
-    </url>  
-     
-  
-   
-    <url>
       <loc>/about/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
@@ -138,6 +122,22 @@
    
     <url>
       <loc>/services/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>  
+     
+  
+   
+    <url>
+      <loc>/portfolio/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>  
+     
+  
+   
+    <url>
+      <loc>/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>  
