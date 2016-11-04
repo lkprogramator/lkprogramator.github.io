@@ -3,7 +3,7 @@
  
    
     <url>
-      <loc>/portfolio/bigprojects/Prism%20solution.html</loc>
+      <loc>/portfolio/web/web44.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
@@ -34,6 +34,12 @@
   
     <url>
       <loc>/portfolio/bigprojects/HR%20solution.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+  
+    <url>
+      <loc>/portfolio/bigprojects/Prism%20solution.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
