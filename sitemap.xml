@@ -3,7 +3,7 @@
  
    
     <url>
-      <loc>/portfolio/web/web44.html</loc>
+      <loc>/portfolio/webdesign/web44.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
@@ -103,7 +103,7 @@
   
    
     <url>
-      <loc>/contact/</loc>
+      <loc>/cv/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>  
@@ -135,6 +135,14 @@
   
    
     <url>
+      <loc>/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>  
+     
+  
+   
+    <url>
       <loc>/portfolio/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
@@ -143,7 +151,7 @@
   
    
     <url>
-      <loc>/</loc>
+      <loc>/contact/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>  
