@@ -3,6 +3,30 @@
  
    
     <url>
+      <loc>/portfolio/php/Laravel-assets-manager.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+  
+    <url>
+      <loc>/portfolio/php/Grav-cms-theme-slice2.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+  
+    <url>
+      <loc>/portfolio/php/Grav-cms-theme-slice.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+  
+    <url>
+      <loc>/portfolio/java/ProgrammersToolbox-translations.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+  
+    <url>
       <loc>/portfolio/webdesign/web44.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
@@ -119,7 +143,7 @@
   
    
     <url>
-      <loc>/about/</loc>
+      <loc>/contact/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>  
@@ -151,7 +175,7 @@
   
    
     <url>
-      <loc>/contact/</loc>
+      <loc>/about/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>  
@@ -170,6 +194,14 @@
    
     <url>
       <loc>/blog/page/3/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>  
+     
+  
+   
+    <url>
+      <loc>/blog/page/4/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>  
