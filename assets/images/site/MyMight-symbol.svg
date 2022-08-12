@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-40 -40 280 280" style='background-color: white;' width="200pt" height="200pt">
+  <g id="full-rgb">
+    <g id="logoMark">
+      <path id="logoMark_PathItem_" data-name="logoMark &lt;PathItem&gt;" d="M59.91,32.9628,32.5189,5.58A19.0489,19.0489,0,0,0,0,19.0419V92.855Z" style="fill: #ffc600"/>
+      <polygon id="logoMark_PathItem_2" data-name="logoMark &lt;PathItem&gt;" points="59.493 32.546 0 92.021 0 179.793 103.392 76.432 59.493 32.546" style="fill: #fb637e"/>
+      <path id="logoMark_PathItem_3" data-name="logoMark &lt;PathItem&gt;" d="M0,180.958v-7.8874L167.4811,5.639A19.0489,19.0489,0,0,1,200,19.1012V180.958A19.045,19.045,0,0,1,180.9522,200H19.0478A19.045,19.045,0,0,1,0,180.958Z" style="fill: #4e4799"/>
+    </g>
+  </g>
+</svg>

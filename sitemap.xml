@@ -1,212 +1,294 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
- 
-   
+    
+
+    
+    
     <url>
-      <loc>/portfolio/php/Laravel-assets-manager.html</loc>
+        <loc>http://lkprogramator.github.io/about</loc>
+        
+        <lastmod>2022-08-12T21:55:29+02:00</lastmod>
+        
+        
         <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>/portfolio/php/Grav-cms-theme-slice2.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>/portfolio/php/Grav-cms-theme-slice.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>/portfolio/java/ProgrammersToolbox-translations.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>/portfolio/webdesign/web44.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>/portfolio/web/Atelier-nespadne.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>/portfolio/web/webarchne.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>/blog/Test-article-mark.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>/portfolio/web/Poji.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>/portfolio/bigprojects/HR%20solution.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>/portfolio/bigprojects/Prism%20solution.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>/portfolio/java/Tvurce-prezentaci.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>/portfolio/webdesign/Zen-Garden.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>/portfolio/webdesign/Firma-greem.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>/portfolio/webdesign/Firma-gray.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>/portfolio/java/Tvurce-rozvrhu.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>/portfolio/java/Pacman.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>/portfolio/java/Generator-testu.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>/portfolio/web/No%C4%8Dn%C3%AD-nebe.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-  
-  
-   
-    <url>
-      <loc>/404.html</loc>
-        <changefreq>monthly</changefreq>
+        
+        
         <priority>0.3</priority>
-    </url>  
-     
-  
-   
+        
+    </url>
+    
+    
+    
     <url>
-      <loc>/cv/</loc>
+        <loc>http://lkprogramator.github.io/index</loc>
+        
+        <lastmod>2022-08-12T21:55:29+02:00</lastmod>
+        
+        
         <changefreq>monthly</changefreq>
+        
+        
         <priority>0.3</priority>
-    </url>  
-     
-  
-   
+        
+    </url>
+    
+    
+    
     <url>
-      <loc>/blog/</loc>
+        <loc>http://lkprogramator.github.io/portfolio</loc>
+        
+        <lastmod>2022-08-12T21:55:29+02:00</lastmod>
+        
+        
         <changefreq>monthly</changefreq>
+        
+        
         <priority>0.3</priority>
-    </url>  
-     
-  
-   
+        
+    </url>
+    
+    
+
+    
+    
     <url>
-      <loc>/contact/</loc>
+        <loc>http://lkprogramator.github.io/portfolio/no%C4%8Dn%C3%AD-nebe</loc>
+        
+        <lastmod></lastmod>
+        
+        
         <changefreq>monthly</changefreq>
+        
+        
         <priority>0.3</priority>
-    </url>  
-     
-  
-   
+        
+    </url>
+    
+    
+    
     <url>
-      <loc>/services/</loc>
+        <loc>http://lkprogramator.github.io/portfolio/pacman</loc>
+        
+        <lastmod></lastmod>
+        
+        
         <changefreq>monthly</changefreq>
+        
+        
         <priority>0.3</priority>
-    </url>  
-     
-  
-   
+        
+    </url>
+    
+    
+    
     <url>
-      <loc>/</loc>
+        <loc>http://lkprogramator.github.io/portfolio/programmers-toolbox-translations</loc>
+        
+        <lastmod></lastmod>
+        
+        
         <changefreq>monthly</changefreq>
+        
+        
         <priority>0.3</priority>
-    </url>  
-     
-  
-   
+        
+    </url>
+    
+    
+    
     <url>
-      <loc>/portfolio/</loc>
+        <loc>http://lkprogramator.github.io/portfolio/tvurce-rozvrhu</loc>
+        
+        <lastmod></lastmod>
+        
+        
         <changefreq>monthly</changefreq>
+        
+        
         <priority>0.3</priority>
-    </url>  
-     
-  
-   
+        
+    </url>
+    
+    
+    
     <url>
-      <loc>/about/</loc>
+        <loc>http://lkprogramator.github.io/portfolio/firma-greem</loc>
+        
+        <lastmod></lastmod>
+        
+        
         <changefreq>monthly</changefreq>
+        
+        
         <priority>0.3</priority>
-    </url>  
-     
-  
-   
-  
-   
+        
+    </url>
+    
+    
+    
     <url>
-      <loc>/blog/page/2/</loc>
+        <loc>http://lkprogramator.github.io/portfolio/zen-garden</loc>
+        
+        <lastmod></lastmod>
+        
+        
         <changefreq>monthly</changefreq>
+        
+        
         <priority>0.3</priority>
-    </url>  
-     
-  
-   
+        
+    </url>
+    
+    
+    
     <url>
-      <loc>/blog/page/3/</loc>
+        <loc>http://lkprogramator.github.io/portfolio/tvurce-prezentaci</loc>
+        
+        <lastmod></lastmod>
+        
+        
         <changefreq>monthly</changefreq>
+        
+        
         <priority>0.3</priority>
-    </url>  
-     
-  
-   
+        
+    </url>
+    
+    
+    
     <url>
-      <loc>/blog/page/4/</loc>
+        <loc>http://lkprogramator.github.io/portfolio/prism-solution</loc>
+        
+        <lastmod></lastmod>
+        
+        
         <changefreq>monthly</changefreq>
+        
+        
         <priority>0.3</priority>
-    </url>  
-     
-  
-     
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://lkprogramator.github.io/portfolio/hr-solution</loc>
+        
+        <lastmod></lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.3</priority>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://lkprogramator.github.io/portfolio/webarchne</loc>
+        
+        <lastmod></lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.3</priority>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://lkprogramator.github.io/portfolio/atelier-nespadne</loc>
+        
+        <lastmod></lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.3</priority>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://lkprogramator.github.io/portfolio/grav-cms-theme-slice</loc>
+        
+        <lastmod></lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.3</priority>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://lkprogramator.github.io/portfolio/grav-cms-theme-slice2</loc>
+        
+        <lastmod></lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.3</priority>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://lkprogramator.github.io/portfolio/programmers-toolbox-images</loc>
+        
+        <lastmod></lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.3</priority>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://lkprogramator.github.io/portfolio/mymightiot-dashbord</loc>
+        
+        <lastmod></lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.3</priority>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://lkprogramator.github.io/portfolio/mymightiot-designer</loc>
+        
+        <lastmod></lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.3</priority>
+        
+    </url>
+    
+    
 </urlset>
 
